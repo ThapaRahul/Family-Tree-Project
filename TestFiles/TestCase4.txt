@@ -1,0 +1,36 @@
+E Indra Rudra Jasodha
+E Indra Rudra Ram
+E Indra Rudra Durga
+E Indra Rudra Chandra
+E Hetauda Jasodha Bhagawan
+E Hetauda Jasodha Puspa
+E Ram Saru Rohit
+E Ram Saru Rahul
+E Bharatpur Durga Surji
+E Bharatpur Durga Madi
+E Maya Chandra Sangita
+E Maya Chandra Radhika
+E Bhinaju Radhika Riwon
+E Bhinaju Radhika Regan
+E Bhagawan Bhauju Bhatij
+W child Rudra
+X Ram child Rudra
+X Surji child Bharatpur
+X Ram sibling Chandra
+X Regan sibling Riwon
+W sibling Sangita
+W ancestor Regan
+W ancestor Rahul
+X Indra ancestor Bhatij
+X Hetauda ancestor Sangita
+W cousin 0 Ram
+W cousin 1 Ram
+W cousin 2 Bhatij
+W cousin 1 Bhatij
+W cousin 1 Puspa
+X Puspa cousin 1 Surji
+X Rahul cousin 0 Rohit
+X Bhatij cousin 2 Regan
+X Saru unrelated Regan
+X Rohit unrelated Rahul
+X Ram unrelated Regan

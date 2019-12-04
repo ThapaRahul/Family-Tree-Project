@@ -1,0 +1,9 @@
+E John Mary Bill
+E John Mary Pete
+E John Mary Fred
+E John Jean Rebecca
+E Rebecca Bill Andrew
+E Pete Carol Jim
+E Jim Jean Ven
+W cousin 1 Ven
+X Ven cousin 0 Andrew

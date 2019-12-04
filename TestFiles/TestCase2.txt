@@ -1,0 +1,31 @@
+E Arthur Molly Bill
+E Arthur Molly Charlie
+E Arthur Molly Percy
+E Arthur Molly Fred
+E Arthur Molly George
+E Arthur Molly Ron
+E Arthur Molly Ginny
+E James Lily Harry
+E Harry Ginny James1
+E Harry Ginny Albus
+E Harry Ginny Lily1
+E Ron Hermione Rose
+E Ron Hermione Hugo
+E Bill Fleur Victoire
+E Bill Fleur Dominique
+E Bill Fleur Louis
+E Percy Audrey Molly1
+E Percy Audrey Lucy
+E George Angelina Fred1
+E George Angelina Roxanne
+E Ted Andromeda Tonks
+E Bellatrix Roldophus
+E Narcissa Luclus Draco
+E Astoria Draco Scorplus
+E Rose Scorplus
+E Tonks Remus Teddy
+E Teddy Victoire
+W sibling Fred1
+W child Harry
+X Harry ancestor Lily
+X Louis cousin 0 Lily

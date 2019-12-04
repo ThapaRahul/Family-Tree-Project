@@ -1,0 +1,25 @@
+E John Mary Bill
+E John Mary Pete
+E John Mary Fred
+E John Jean Rebecca
+E Rebecca Bill Andrew
+E Pete Carol Jim
+W child John
+X Bill sibling Pete
+X Bill sibling Fred
+X John unrelated Mary
+W ancestor Andrew
+X John cousin 1 Jim
+X John child Bill
+X Bill child John
+W sibling Bill
+W sibling Rebecca
+W sibling Andrew
+X John ancestor Rebecca
+W ancestor Jim
+X Rebecca unrelated Carol
+W unrelated Carol
+X Jim unrelated Jean
+X Bill sibling Rebecca
+W cousin 0 Max
+
